@@ -13,7 +13,7 @@ This project presents the design and verification of an **8-Bit Arithmetic Logic
 * **Outputs:** `ALU_Out` displays the 8-bit result, while the `Zero` flag goes HIGH (`1`) whenever the output is `0`.
 
 ## How to Run
-1. Open **EDA Playground** and paste `alu_8bit_major.v` in the design editor and `tb_alu_major.v` in the testbench editor.
+1. Open **EDA Playground** and paste design.sv in the design editor and testbenc.sv in the testbench editor.
 2. Select **Icarus Verilog** as the simulator and check **"Open EPWave after run"**.
 3. Click **Run** to execute the simulation and view the timing waveforms in **EPWave**.
 <img width="1600" height="201" alt="WhatsApp Image 2026-11-18 at 6 55 06 PM" src="https://github.com/user-attachments/assets/0c989376-121d-41e8-81a3-6a983c379b39" />
